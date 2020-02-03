@@ -30,3 +30,5 @@ In comparison to the first General Government Debt chart, this streamgraph adds 
 
 # Critique By Design - Forbes Coachella vs Other Music Festivals 2015 Chart
 ![Forbes_Coachella_vs_Other_Music_Festivals_2015](https://user-images.githubusercontent.com/59836288/73617812-82f84e00-45f0-11ea-9043-c2acb865631c.jpg)
+
+<iframe src="https://e.infogram.com/52bdb560-245f-4b09-91e3-bf8dc5bafd44?src=embed" title="Forbes Coachella Critique" width="700" height="636" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px;width: 640px"><a href="https://infogram.com/52bdb560-245f-4b09-91e3-bf8dc5bafd44" style="color:#989898!important;text-decoration:none!important;" target="_blank">Forbes Coachella Critique</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
