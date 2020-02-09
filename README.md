@@ -74,6 +74,7 @@ Story arc wireframe:
 ![Story Arc Wireframe](https://user-images.githubusercontent.com/59836288/74109593-be47cf00-4b52-11ea-9747-3b7bb47ad9ee.png)
 
 # Data
+[Talkspace Mental Health Statistics]https://www.talkspace.com/blog/mental-health-statistics/
 
 # Method and Medium
 For part two of my final project, I will continue to use Balsamiq to develop wireframes to visualize my story arc even further. I plan on getting user feedback from my classmates and peers on whether or not the structure of my story is understandable and follows a sequence that makes sense. I would also like to get feedback on whether my ideas on how I am representing the data can be improved. My goal is to use diverse tools and chart types to demonstrate what I have learned in the class. With that said, I still want to maintain a level of simplicity in design and color for each visualization. Moreover, I want to receive feedback on whether or not the data I chose to support my story arc is actually relevant and purposeful. Beyond this, I want to get feedback on my topic -- specifically if the mental health resources and recommendation list is comprehensive and can be applied to a diverse range of groups. 
