@@ -51,3 +51,19 @@ After receiving several critiques, I mapped out some charts in Tableau. My first
 Taking the critiques from my first solution, I decided to try one more Tableau chart. The next one I made was a map chart. This helps to add more detail and context for the chart by displaying location. I used color to arrange festivals by location. For example, green represents the west coast. I called more attention to Coachella by choosing a different shade of green and adding a different data label, which has text in the darker green and has price per artist and number of artists labeled. The price per artist field is also demonstrated with size of the data point. The higher the price per artist, the larger the data point. Here, the audience can clearly compare different festivals because they are all labeled. The audience has the added benefit of comparing festivals per region. When I showed this updated chart to the same groups for critique, they noted that this chart was the most simple and clear compared to the previous charts because it fixed the issues in the previous charts.
 
 ![Music Festival_Dollar Per Artist_2015_Map_Only](https://user-images.githubusercontent.com/59836288/73623462-02931680-460b-11ea-80e0-35cb64395861.png)
+
+# Final Project: Part I
+
+# An Outline
+Summary: The pathway to reclaiming mental health, by decreasing stigma and developing more resources, education, and support, can be through innovating and iterating in social media and technology. 
+
+User Stories:
+
+As a reader, I want to show a combination of art, real examples/stories, and critical data points on mental health so that I can demonstrate how relatable and common mental health issues are.
+
+As a reader, I want more spaces for discussion on mental health so that others can develop a sense of community, understanding, and empathy.  
+
+As a reader, I want to demonstrate the global and economic repercussions of mental illness so that I can show the importance of decreasing stigma.
+
+Project Structure:
+![Project Structure](https://user-images.githubusercontent.com/59836288/74109520-2a760300-4b52-11ea-9d35-5e47e2d51577.jpg)
