@@ -86,3 +86,32 @@ For part two of my final project, I will continue to use Balsamiq to develop wir
 For part three, I plan on using Shorthand to build and share my story. I plan on reviewing previous final project examples on Shorthand to get a better understanding of the length and depth of my story. I will also dedicate time on theme and design of my project as well as incorporating further tools and concepts that I have learned in class to round out my story.
 
 For part four, I plan on creating an outline of the key points I want to make during my presentation. I will practice running through my presentation a few times to make sure that I am within the time limit. I will also gather feedback on my presentation from my classmates and peers to check if my story and presentation is clear, understandable, and memorable. I want the audience to recognize the call to action and hopefully inspire change.
+
+# Final Project: Part II
+
+# Wirefames / storyboard for user feedback
+1. Opener:
+![Opener Wireframe](https://user-images.githubusercontent.com/59836288/74615008-c66fb380-50ea-11ea-828a-2b2468456502.png)
+
+2. Commone Stressors:
+![Common Stressors Wireframe](https://user-images.githubusercontent.com/59836288/74615015-ddaea100-50ea-11ea-8609-c53d9f04b046.png)
+
+3. Importance of Mental Health:
+![Importance Wireframe](https://user-images.githubusercontent.com/59836288/74615027-f028da80-50ea-11ea-84c6-ba4a82e248a5.png)
+
+4. Happiness Index:
+![Happiness Index Wireframe](https://user-images.githubusercontent.com/59836288/74615033-03d44100-50eb-11ea-9f52-cb5c41b4e540.png)
+
+5. Problem:
+![Problem Wireframe](https://user-images.githubusercontent.com/59836288/74615039-15b5e400-50eb-11ea-98c4-60faeb41b58a.png)
+
+6. Technology Today:
+![Technology Wireframe](https://user-images.githubusercontent.com/59836288/74615062-38e09380-50eb-11ea-8a49-40003a19987c.png)
+
+7. CTA: Technology & Health Industry:
+![CTA_ Iteration Wireframe](https://user-images.githubusercontent.com/59836288/74615068-46961900-50eb-11ea-8c04-2670dde2bf7b.png)
+
+8. CTA: Individual:
+![CTA_ Individual Wireframe](https://user-images.githubusercontent.com/59836288/74615074-4e55bd80-50eb-11ea-8ef9-016f2cc24fe4.png)
+
+
