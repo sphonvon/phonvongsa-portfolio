@@ -10,6 +10,8 @@ In my previous work, I dealt with data analysis on a daily basis. My hope is to 
 # Portfolio
 This will be the home of all my interesting data visualization work!
 
+[Final Project Page](FinalProjectPage.md)
+
 # Critique 1: Economist Bar Chart
 https://docs.google.com/spreadsheets/d/1JgcE_5yUxZfUC2UIXSPF2OKPhuKPgdzLpR28xkzBUXY/edit?usp=sharing
 
