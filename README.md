@@ -14,6 +14,7 @@ This will be the home of all my interesting data visualization work!
 
 # Assignments
 [Critique 1: Economist Bar Chart](critique_1.md)
+
 [General Government Debt](general_government_debt.md)
 
 # General Government Debt
