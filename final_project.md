@@ -26,7 +26,7 @@ Story arc wireframe:
 [Talkspace Mental Health Statistics](https://www.talkspace.com/blog/mental-health-statistics/)
 These mental health statistics will mainly be displayed through infographics using the tool, Inforgram. This data will be utilized to demonstrate how common mental illness is on an individual and global level. The goal is to nomalize mental illness to reduce stigma. Additionaly, this data will be utilized to demonstrate why this topic is important. Mental illness affects lifespan, physical health, suicide, and earnings loss, which demonstrates mental illness' real-world and economic impact. Furthermore, this data will also show the top mental illnesses to highlight what is most common in the U.S. Lastly, the data can also be leveraged to add more context behind the cultural and racial stigma of mental illness.
 
-[Happy Planet Index Score] (https://github.com/sphonvon/repo/files/4179109/hpi-data-2016.xlsx)
+[Happy Planet Index Score](https://github.com/sphonvon/repo/files/4179109/hpi-data-2016.xlsx)
 The Happy Planet Index Score data will be displayed through a geographic interactive map using Tableau. This data will show Happy Planet Index scores around the world to provide context of the state of happiness on a global level. Since happiness and mental illness are negatively correlated, the data will put into perspective the persavsiveness of mental illness.
 
 # Method and Medium
@@ -90,3 +90,21 @@ From my interviews, I learned that there was interest in my topic and that it wa
 
 Changes Implemented to Sketches, Storyboard, and Wireframes:
 Based on my conversations, to bring more clarity to the story arc and point I was trying to make, I tried to make the titles for each wireframe signifiy the main point I was trying to make (e.g. "Mental Illness is More Common Than You Think"). There were some wireframes where I could not outline the main takeaway because it would require more further data analysis. For instance, the Happiness Index wireframe does not have a main takeaway because I need to see how the U.S. compares to the rest of the world and if there are other trends that should be highlighted (e.g. is happiness declining over time?). I added bubble blurbs with questions to the audience to try to make the data more relatable and also to make the audience think about how this information I'm displaying is displaying a new perpecitive. In this way, I am trying to make the information and presentation more interactive by challenging my audience to digest and think about the consequences of the data. I also received feedback that my infographic placeholders had a lot of text. I am aware of this but there was no infographic template in Balsamiq. I will remember to keep this in mind and make sure that there is less text and more images to demonstrate the key points I am making. Lastly, explaining the different kind of mental health apps was difficult without having examples. I remember in class that the Professor stated that we may not be able to endorse apps -- I will definitely ask the Professor about this because showing examples of apps will help the audience understand and grasp the technology better. 
+
+# Final Project: Part III
+
+Shorthand Link:
+
+[Reclaiming Mental Health By Innovating and Iterating Through Technology](https://carnegiemellon.shorthandstories.com/reclaiming-mental-health-by-innovating-and-iterating-tech/index.html)
+
+Resources:
+
+[Talkspace Mental Health Statistics](https://www.talkspace.com/blog/mental-health-statistics/)
+
+[World Happiness Report 2019.xlsx](https://github.com/sphonvon/repo/files/4258852/World.Happiness.Report.2019.xlsx)
+
+[mHealth Dossier - Statista.pptx](https://github.com/sphonvon/repo/files/4258847/mHealth.Dossier.-.Statista.pptx)
+
+[Do Mental Health Apps Work - Mhealth.pdf](https://github.com/sphonvon/repo/files/4258854/Do.Mental.Health.Apps.Work.-.Mhealth.pdf)
+
+[Images from Pexels](https://www.pexels.com/)
